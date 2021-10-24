@@ -1,4 +1,3 @@
-# CinnamonBun
 <!DOCTYPE html>
 <html lang="en">
 <head>
